@@ -1,4 +1,4 @@
-# Minimalist Focus Timer — HCI Project (CS798H)
+# Minimalist Focus App — HCI Project (CS798H)
 
 > A clean, distraction-free **focus timer** with lightweight task tracking and theme customization. Built for **simplicity over complexity**, inspired by the Pomodoro technique and informed by user research and iterative evaluation.
 
