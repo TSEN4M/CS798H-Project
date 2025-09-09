@@ -14,12 +14,8 @@
 - [Assigned Tasks & Outcomes (Highlights)](#assigned-tasks--outcomes-highlights)
 - [Findings & Takeaways](#findings--takeaways)
 - [Roadmap](#roadmap)
-- [Getting Started](#getting-started)
-- [Suggested Folder Structure](#suggested-folder-structure)
+- [Final App](#final--app)
 - [Authors](#authors)
-- [References & Data](#references--data)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -104,4 +100,15 @@ Most focus apps (e.g., Focus To-Do, Forest, Pomodoro Timer) overload users with 
 
 ---
 
+## Final App
+
+- Find the app with app-release.apk
+
 ---
+
+## Authors
+
+- Tsewang Namgail — 241110093
+- Tsewang Chukey — 241110092
+
+- Course: CS798H — Human–Computer Interaction
